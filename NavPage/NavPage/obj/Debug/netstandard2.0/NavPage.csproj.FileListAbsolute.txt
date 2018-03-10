@@ -1,0 +1,11 @@
+C:\Users\roman\source\repos\NavPage\NavPage\NavPage\bin\Debug\netstandard2.0\NavPage.deps.json
+C:\Users\roman\source\repos\NavPage\NavPage\NavPage\bin\Debug\netstandard2.0\NavPage.dll
+C:\Users\roman\source\repos\NavPage\NavPage\NavPage\bin\Debug\netstandard2.0\NavPage.pdb
+C:\Users\roman\source\repos\NavPage\NavPage\NavPage\obj\Debug\netstandard2.0\NavPage.csprojResolveAssemblyReference.cache
+C:\Users\roman\source\repos\NavPage\NavPage\NavPage\obj\Debug\netstandard2.0\NavPage.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\NavPage\NavPage\NavPage\obj\Debug\netstandard2.0\NavPage.App.xaml.g.cs
+C:\Users\roman\source\repos\NavPage\NavPage\NavPage\obj\Debug\netstandard2.0\NavPage.MainPage.xaml.g.cs
+C:\Users\roman\source\repos\NavPage\NavPage\NavPage\obj\Debug\netstandard2.0\NavPage.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\NavPage\NavPage\NavPage\obj\Debug\netstandard2.0\NavPage.AssemblyInfo.cs
+C:\Users\roman\source\repos\NavPage\NavPage\NavPage\obj\Debug\netstandard2.0\NavPage.dll
+C:\Users\roman\source\repos\NavPage\NavPage\NavPage\obj\Debug\netstandard2.0\NavPage.pdb
